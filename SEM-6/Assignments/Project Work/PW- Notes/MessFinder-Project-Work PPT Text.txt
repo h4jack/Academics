@@ -1,0 +1,419 @@
+                 MESSFINDER   Also Known as Mess Finder A single
+                              platform for finding and listing
+                              rooms and PGs.
+
+                                                TEAM MEMBERS
+               Department of Computer Science
+
+
+
+
+                                                1.   Aakash Shit
+               Bankura Sammilani College
+
+
+
+
+                                                2.   Moumita Dhabal
+                                                3.   Priti Banerjee
+                                                4.   Puja Chowdhury
+                                                5.   Reshmi Singh
+                                                6.   Subhadip Garai
+INSTITUTIONS
+
+
+
+
+                                                7.   Souvik Bhattacharya
+                                                8.   Sujoy Bhakat
+                                                9.   Susanta Mandi
+Know About MessFinder
+
+  3. 2. 1.
+  WhyWho
+     weWhat
+        built
+         is it for?
+               this
+                is Mess
+                    app?Finder?
+  “By considering
+        “Is it for
+                “Messspecifically
+                        theFinder
+                             high demand
+                                   isstudents
+                                       a web ofapplication
+                                                and
+  rentalworking
+         rooms, whichin
+                     professionals,
+                        the
+                          helps
+                             growing
+                                 students
+                                        whoandhaveworking
+                                                    to
+  generation,
+        switchprofessionals
+                 ittoisanother
+                        very difficult
+                                 location
+                                   find toaffordable
+                                            find
+                                             for studyrooms
+  roomsandtooworking
+               easily
+                for rent.”
+                         and
+                           purpose,
+                              quickly,itbut
+                                          helps them
+  with our
+        findone
+              rooms stopinsolution
+                            advanceitbefore
+                                         can
+  helps relocating.”
+        you to find rooms.”
+
+
+
+
+MESSFINDER
+     Know About MessFinder
+
+        3. 2.
+        WhyWho
+           we built
+               is it for?
+                     this app?
+n       “By considering
+              “Is it for specifically
+                           the high demand
+                                      studentsofand
+g       rentalworking
+               rooms, in professionals,
+                           the growing who have to
+ms      generation,
+              switchittoisanother
+                           very difficult
+                                    location
+                                           to find
+                                               for study
+        roomsandtooworking
+                     easily and
+                              purpose,
+                                 quickly,itbut
+                                            helps them
+        with our
+              findone
+                    rooms
+                        stopinsolution
+                               advanceitbefore
+                                          can
+        helps relocating.”
+              you to find rooms.”
+      Know About MessFinder
+
+           3.
+           Why we built this app?
+           “By considering the high demand of
+ to        rental rooms, in the growing
+ dy        generation, it is very difficult to find
+em         rooms too easily and quickly, but
+           with our one stop solution it can
+           helps you to find rooms.”
+Problems facing!
+                                  1
+                   Difficult to find rooms!
+                   “To find room, people have to
+                   check many different places like,
+                   Facebook, Google Map, posters, or
+                   ask others to find a room. As
+                   everything is unorganized.”
+Problems facing!
+                                     2
+                   Lack of trusted sources.
+                   “it is very difficult to verify owner
+                   credibility and trusted room, as
+                   many scamming sites are there
+                   who fool users and steal money
+                   from them.”
+Problems facing!
+                                  3
+                   Very hard and time-
+                   consuming!
+                   “People have to find room, people
+                   have to check many different
+                   places like, Facebook, Google Map,
+                   posters, or ask others o find a
+                   room. As everything is
+                   unorganized.”
+Our Goals
+  Connect room seekers with owners
+  Easy-to-use, secure platform
+  Support local rental economy
+Our Goals
+  Connect room seekers with owners
+  Easy-to-use, secure platform
+  Support local rental economy
+Our Goals
+  Connect room seekers with owners
+  Easy-to-use, secure platform
+  Support local rental economy
+How MessFinder Helps Society
+  Benefits students and job seekers
+  Supports local PG owners
+  Encourages digital inclusion
+How MessFinder Helps Society
+  Benefits students and job seekers
+  Supports local PG owners
+  Encourages digital inclusion
+How MessFinder Helps Society
+  Benefits students and job seekers
+  Supports local PG owners
+  Encourages digital inclusion
+Main Features
+ Users can search and
+  filter result.
+ Owners can post rooms
+  with images.
+ Real-time chat and easy
+  booking.
+Main Features
+ Users can search and
+  filter result.
+ Owners can post rooms
+  with images.
+ Real-time chat and easy
+  booking.
+Main Features
+ Users can search and
+  filter result.
+ Owners can post rooms
+  with images.
+ Real-time chat and easy
+  booking.
+Is MessFinder Feasible?
+  Anyone with a smartphone can
+   use it.
+  Built on simple, scalable tools.
+
+
+  Low-cost setup, deploy and
+   host using free tools.
+Is MessFinder Feasible?
+  Anyone with a smartphone can
+   use it.
+  Built on simple, scalable tools.
+
+
+  Low-cost setup, deploy and
+   host using free tools.
+Is MessFinder Feasible?
+  Anyone with a smartphone can
+   use it.
+  Built on simple, scalable tools.
+
+
+  Low-cost setup, deploy and
+   host using free tools.
+How It’s Built
+
+                      DEVELOPMENT PROCESS
+
+
+           Requirement
+         Gathering And      1
+        Feasibility Study
+
+
+
+                                         System Analysis
+                                     2   and Planning
+Designing and
+       Coding
+                3
+
+
+
+                    4   Testing and Fixing
+
+
+
+
+Deploying and
+      Hosting
+                5
+
+
+
+                        Maintenance - Fix
+                    6   and Update
+Why this Tech Stack
+
+
+
+                      Firebase
+Why this Tech Stack
+
+
+
+                                       Firebase
+               Fast and Flexible
+               Mobile-first,
+                responsive design
+               Clean and
+                maintainable styling
+Why this Tech Stack
+
+
+
+                            Firebase
+                       Firebase
+                        Authentication
+                       Real-Time, scalable
+                        NoSQL database
+                       Cloud Storage for
+                        images/files
+Who Can Do What
+               USER ROLES
+
+
+
+        USER            OWNER
+USER FLOW
+                       Enter Search
+                       Keyword, (e.g.,
+            HomePage   Location, Name)
+                       and click on
+               1       Search)
+     2          Enter Search
+                Keyword, (e.g.,
+Search Result   Location, Name)
+                and click on
+                Search)
+            Click on Contact
+            Options, to
+Room View   Contact, or Send
+            a message
+   3        instead.
+ 4      Login as user, to
+        chat with owner,
+Login   and save rooms,
+        and access
+        other features.
+          Message with
+          owner, and fix
+Message   date for visit,
+          and fix rent.
+  5
+                          OWNER FLOW
+              Select Owner as
+              Role, When
+Select Role   Creating new
+              account.
+    1
+      2          Login or Register as
+                 owner, to access
+Login/Register   features like creating
+                 room, and messaging
+                 with users, etc.
+               Update Profile
+               details, like mobile,
+Edit Profile   email, to submit
+               details and accept
+     3         calls, and messages.
+      4     Submit Your, PG,
+            Room Details to with
+Submit PG   images and location,
+            to list on search.
+            Finally Show Your PG
+Published   list, or in search
+            result.
+   3
+    Keeping Data Safe (Security)
+
+
+    Secure login
+ Secure chat
+ Using hash and encryption   Login Securely, using
+ Role-based access control   Firebase, use hash to
+ Using HTTPS                    store passwords.
+    Keeping Data Safe (Security)
+
+
+ Secure login
+    Secure chat
+ Using hash and encryption   Secure and Realtime
+ Role-based access control      chat, with SSL
+ Using HTTPS                     Encryption.
+    Keeping Data Safe (Security)
+
+
+ Secure login
+ Secure chat
+   Using hash and encryption     Passwords and Users
+ Role-based access control      Information are saved
+ Using HTTPS                   and transferred securely
+                                with advance encryption
+                                       methods.
+   Keeping Data Safe (Security)
+
+
+ Secure login
+ Secure chat
+ Using hash and encryption        User can access data
+    Role-based access control      that is required, and
+ Using HTTPS                    can’t access others data.
+                                   It prevents misuse of
+                                          privilege.
+   Keeping Data Safe (Security)
+
+
+ Secure login
+ Secure chat
+ Using hash and encryption       HTTPS uses SSL/TLS to
+ Role-based access control      encrypt communication
+   Using HTTPS               between the browser and the
+                               server, keeping data secure
+                                   and protected from
+                                       interception.
+What’s Next? (Future Plans)
+ Add payment and map features.
+ Push notifications.
+ Map based Search.
+ Accessibility Controls
+ User review/rating system
+What’s Next? (Future Plans)
+ Add payment and map features.
+ Push notifications.
+ Map based Search.
+ Accessibility Controls
+ User review/rating system
+What’s Next? (Future Plans)
+ Add payment and map features.
+ Push notifications.
+ Map based Search.
+ Accessibility Controls
+ User review/rating system
+What’s Next? (Future Plans)
+ Add payment and map features.
+ Push notifications.
+ Map based Search.
+ Accessibility Controls
+ User review/rating system
+What’s Next? (Future Plans)
+ Add payment and map features.
+ Push notifications.
+ Map based Search.
+ Accessibility Controls
+ User review/rating system
+Reference
+  Icons/illustrations/Image:
+ https://svgrepo.com
+ https://unsplash.com/
+THANK
+ YOU
+
