@@ -1,30 +1,38 @@
 #include <iostream>
 using namespace std;
 
-string caesar_cipher(string text, int shift, char mode = 'c') {
-    string result = "";
-    if(mode == 'd') shift = -shift;
-    for(auto c : text)
-        if(isalpha(c)){
-            int base = 65;
-            if(islower(c)){
-                base = 97;
-            }
-            result += char((int(c) - base + shift) % 26 + base);
-        }else result += c;
-    return result;
+string caesar(string t, int s, char m = 'e') {
+    s%=26;
+    if (m == 'd') s = -s;
+
+    for (char &c : t)
+        if (isalpha(c)) {
+            char base = islower(c) ? 'a' : 'A';
+            c = (c - base + s + 26) % 26 + base;
+        }
+    return t;
 }
 
-int main(){
+int main() {
     string text;
     int shift;
     char mode;
-    cout << "Enter your message: ";
-    cin >> text;
-    cout << "Enter shift value (e.g., 3): ";
-    cin >> shift;
-    cout << "Enter Encryption or Decryption mode as ('e' or 'd'): ";
-    cin >> mode;
-    cout << caesar_cipher(text, shift, tolower(mode));
-    return 0;
+    cout << "Message: "; getline(cin, text);
+    cout << "Shift: "; cin >> shift;
+    cout << "Mode (e/d): "; cin >> mode;
+    cout << "\nResult: " << caesar(text, shift, tolower(mode)) << endl;
 }
+
+// PS S:\WorkSpace\Academics\SEM-6\Cryptographics> ./a
+// Message: Hii Friends
+// Shift: 54 
+// Mode (e/d): e
+
+// Result: Jkk Htkgpfu
+
+// PS S:\WorkSpace\Academics\SEM-6\Cryptographics> ./a
+// Message: Jkk Htkgpfu
+// Shift: 54 
+// Mode (e/d): d
+
+// Result: Hii Friends
